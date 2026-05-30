@@ -1,0 +1,217 @@
+<html>
+
+<head>
+
+<title>Salud Mental</title>
+
+</head>
+
+<body bgcolor="#c7f9cc">
+
+<center>
+
+<img src="https://www.image2url.com/r2/default/images/1780098807494-1366a1c4-e125-480a-8e20-38de20571d88.png" width="100%">
+
+<marquee>
+
+<font size="5">
+
+La salud mental es fundamental para el bienestar emocional, social y académico.
+
+</font>
+
+</marquee>
+
+</center>
+
+<br>
+
+<h1>PROYECTO PAEC: SALUD MENTAL</h1>
+
+<h2>La Importancia de la Salud Mental</h2>
+
+<p><b>Tema central:</b> Salud Mental</p>
+
+<table border="1" width="100%" bgcolor="white">
+
+<tr>
+
+<th>¿Qué es la salud mental?</th>
+
+<th>Importancia</th>
+
+</tr>
+
+<tr>
+
+<td>
+
+La salud mental es el estado de bienestar en el que una persona puede afrontar el estrés de la vida diaria, trabajar y estudiar de manera productiva y convivir sanamente con otras personas.
+
+</td>
+
+<td>
+
+Cuando la salud mental no es accesible aumentan problemas como ansiedad y depresión. Cuando existe atención adecuada mejora la calidad de vida y el desarrollo emocional.
+
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<h2>Árbol de Problemas</h2>
+<h2>Ciencias de la comunicacion</h2>
+
+<img src="https://www.image2url.com/r2/default/images/1780099629007-e6de6b51-b24f-4a98-a391-1af0ec1afd93.jpeg" width="250" align="left">
+
+<p>
+
+<b>Hojas:</b>
+
+<br><br>
+
+Las consecuencias aqui se presentan en la copa del arbol de problemas, donde se puede ver como afectan de una manera muy concreta con varios ejemplos de problemas que surgen al no tratar las dificultades de la vida diaria
+<br><br>
+
+<b>Tronco:</b>
+
+<br><br>
+
+Esta es la parte mas fasil de explicar, solamente es el plantamiento y la introduccion mas basica la cual es el titulo.
+
+<br><br>
+
+<b>Raíces:</b>
+
+<br><br>
+
+De aqui es de donde surge todo, las raices de donde se originan los problemas para las dificultades al tener una salud mental deficiente y como el entorno influye en nuestra salud mental
+
+</p>
+
+<br clear="all">
+<h2>Organismos:Herencia y evolucion</h2>
+
+<br><br>
+<img src="https://www.image2url.com/r2/default/images/1780099795766-f085fbf3-a0dd-4bb3-ba17-9734dbec8646.jpeg" width="240" align="left">
+
+<p>
+
+Especiación celular y salud mental
+
+La especiación celular es el proceso mediante el cual las células madre se transforman en células especializadas con funciones específicas dentro del organismo. Este proceso se relaciona con la salud mental porque permite la formación y desarrollo de las células del sistema nervioso, como las neuronas y otras células cerebrales. Estas células participan en la transmisión de señales químicas y eléctricas que regulan emociones, pensamientos, comportamientos y procesos cognitivos. Además, intervienen en la producción y regulación de neurotransmisores y hormonas que influyen directamente en el estado de ánimo, el aprendizaje, la memoria y el bienestar psicológico.
+
+</p>
+
+<br clear="all">
+<h2>Conciencia historica</h2>
+<img src="https://www.image2url.com/r2/default/images/1780099923787-0f1a830c-9801-4d21-ab7c-5023fd33604a.jpeg" width="250" align="left">
+
+<p>
+
+La infografia nos dice como la declaracion de la salud nos establece por que la salud mental tambien debe ser considerado un derecho humano siendo accesible al igual que se debe promover en jovenes y aldultos para que no nos perjudique a futuro. Declaración de la salud y salud mental
+
+La infografía nos muestra cómo la declaración de la salud reconoce que la salud mental es una parte fundamental del bienestar de las personas y debe ser considerada un derecho humano. Esto significa que todas las personas deben tener acceso a servicios, apoyo y atención relacionados con la salud mental sin discriminación. También destaca la importancia de promover hábitos que favorezcan el bienestar emocional desde edades tempranas, ya que una buena salud mental permite desarrollar relaciones saludables, afrontar dificultades de manera adecuada y prevenir problemas que puedan afectar la calidad de vida en el futuro.
+
+</p>
+
+<br clear="all">
+<h2>Pensamiento Filosófico</h2>
+
+<p><b>Materia:</b> Pensamiento Filosófico</p>
+
+<img src="https://www.image2url.com/r2/default/images/1780099999023-a2ba748f-2f3c-4350-9a86-88d8cc2e41de.png" width="290" align="left">
+
+<p>
+
+Filosofía y salud mental
+
+Aquí se explica cómo la filosofía ha contribuido a comprender que los problemas y enfermedades mentales no tienen un origen místico o sobrenatural, sino que están relacionados con diversos factores de la vida cotidiana. La filosofía analiza la manera en que las personas piensan, sienten y perciben el mundo, ayudando a entender cómo las experiencias, el entorno social, las relaciones con otras personas y las circunstancias de vida pueden influir en la salud mental. Gracias a estas reflexiones, se ha promovido una visión más racional y humana sobre los trastornos mentales.
+</p>
+
+<br clear="all">
+<h2>Formulario sobre Salud Mental</h2>
+
+<form>
+
+<table border="1" width="60%" bgcolor="white">
+
+<tr>
+<th colspan="2">Encuesta Escolar</th>
+</tr>
+
+<tr>
+<td>Nombre:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Edad:</td>
+<td><input type="number"></td>
+</tr>
+
+<tr>
+<td>Grupo:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>¿Cómo consideras tu salud mental?</td>
+<td>
+
+<input type="radio" name="salud"> Buena
+<br>
+
+<input type="radio" name="salud"> Regular
+<br>
+
+<input type="radio" name="salud"> Mala
+
+</td>
+</tr>
+
+<tr>
+<td>¿Te sientes apoyado por tu familia?</td>
+<td>
+
+<input type="radio" name="familia"> Sí
+<br>
+
+<input type="radio" name="familia"> No
+
+</td>
+</tr>
+
+<tr>
+<td>¿Realizas actividades para cuidar tu salud mental?</td>
+<td>
+
+<input type="radio" name="actividad"> Sí
+<br>
+
+<input type="radio" name="actividad"> No
+
+</td>
+</tr>
+
+<tr>
+<td>¿Qué actividades te ayudan emocionalmente?</td>
+<td>
+<textarea rows="4"></textarea>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<input type="reset" value="Enviar">
+
+</td>
+</tr>
+
+</table>
+
+</form>
