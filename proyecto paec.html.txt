@@ -1,0 +1,53 @@
+<section>
+
+<h2>Formulario</h2>
+
+<form>
+
+<table>
+
+<tr>
+<th colspan="2">Encuesta Escolar</th>
+</tr>
+
+<tr>
+<td>Nombre:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+
+<td>¿Cómo consideras tu salud mental?</td>
+
+<td>
+
+<input type="radio" name="salud"> Buena
+<br><br>
+
+<input type="radio" name="salud"> Regular
+<br><br>
+
+<input type="radio" name="salud"> Mala
+
+</td>
+
+</tr>
+
+<tr>
+<td>¿Qué actividades te ayudan emocionalmente?</td>
+<td><textarea rows="4"></textarea></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<input type="reset" value="Enviar">
+
+</td>
+</tr>
+
+</table>
+
+</form>
+
+</section>
